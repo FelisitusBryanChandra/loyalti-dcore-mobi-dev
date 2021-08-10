@@ -20,28 +20,26 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Loyalti Express</h3>
 
   <p align="center">
-    project_description
+    Voucher, Coupon, and Points Mobile Application
     <br />
     <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev">View Demo</a>
-    ·
     <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/issues">Report Bug</a>
     ·
     <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/issues">Request Feature</a>
@@ -161,9 +159,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Felisitus Bryan Chandra - bryanchandra.SJM@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/](https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/)
 
 
 
