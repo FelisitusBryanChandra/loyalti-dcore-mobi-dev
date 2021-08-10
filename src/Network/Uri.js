@@ -1,8 +1,8 @@
 export default {
-    KAFKA_API: "http://137.116.133.19:32651/topics/",
-    CUSTOMER_API: "https://loyalti-customers-dev.azurewebsites.net/graphql",
-    MERCHANT_API: "https://loyalti-merchant-dev.azurewebsites.net/graphql",
-    AUTH_API: "https://11.11.5.146:9445/oauth2/",
+    KAFKA_API: "confidential",
+    CUSTOMER_API: "confidential",
+    MERCHANT_API: "confidential",
+    AUTH_API: "confidential",
 
     //IMAGE
 
