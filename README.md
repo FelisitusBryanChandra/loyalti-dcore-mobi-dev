@@ -37,14 +37,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/FelisitusBryanChandra/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FelisitusBryanChandra/repo_name">View Demo</a>
+    <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev">View Demo</a>
     ·
-    <a href="https://github.com/FelisitusBryanChandra/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/issues">Report Bug</a>
     ·
-    <a href="https://github.com/FelisitusBryanChandra/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/issues">Request Feature</a>
   </p>
 </p>
 
@@ -180,15 +180,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/FelisitusBryanChandra/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/FelisitusBryanChandra/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/FelisitusBryanChandra/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/FelisitusBryanChandra/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/FelisitusBryanChandra/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/FelisitusBryanChandra/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/FelisitusBryanChandra/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/FelisitusBryanChandra/repo/issues
-[license-shield]: https://img.shields.io/github/license/FelisitusBryanChandra/repo.svg?style=for-the-badge
-[license-url]: https://github.com/FelisitusBryanChandra/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/FelisitusBryanChandra/loyalti-dcore-mobi-dev.svg?style=for-the-badge
+[contributors-url]: https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/FelisitusBryanChandra/loyalti-dcore-mobi-dev.svg?style=for-the-badge
+[forks-url]: https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/network/members
+[stars-shield]: https://img.shields.io/github/stars/FelisitusBryanChandra/loyalti-dcore-mobi-dev.svg?style=for-the-badge
+[stars-url]: https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/stargazers
+[issues-shield]: https://img.shields.io/github/issues/FelisitusBryanChandra/loyalti-dcore-mobi-dev.svg?style=for-the-badge
+[issues-url]: https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/issues
+[license-shield]: https://img.shields.io/github/license/FelisitusBryanChandra/loyalti-dcore-mobi-dev.svg?style=for-the-badge
+[license-url]: https://github.com/FelisitusBryanChandra/loyalti-dcore-mobi-dev/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/FelisitusBryanChandra
