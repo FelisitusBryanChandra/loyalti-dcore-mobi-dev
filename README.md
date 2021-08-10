@@ -1,1 +1,0 @@
-# loyalti-dcore-mobi-dev

@@ -1,0 +1,46 @@
+MEMBER
+================================================
+id = 1
+================================================
+Bronze 100
+Silver 200
+Gold   300
+================================================
+// when promo joined
+currentReward 0
+================================================
+
+collect 1 => currentValue 90
+------------------------------------------------
+
+if(currentValue >= maxValue) {
+GraphQL cards(id:1, currentValue : 90)
+	.then(data){
+	cardId: 1	
+	tier: Bronze
+	}
+}
+
+	else {
+	
+	cardValue = currentValue - maxValue
+	KAFKA{
+	customerId 
+	cardId
+	cardValue
+	}
+}
+
+================================================
+
+collect 2 => currentValue 105
+------------------------------------------------
+if(currentValue >= maxValue) {
+GraphQL cards(id:1, currentValue : 105)
+	.then(data){
+	carrdId: 2
+	tier: Silver}
+}
+
+
+================================================ 
